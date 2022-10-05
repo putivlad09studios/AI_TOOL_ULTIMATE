@@ -1,0 +1,5 @@
+Controlls:
+⬆️⬇️ to move map
+⬅️➡️ to change shoot editor and sprite editor
+❎ to open Data Mode (Data Window)
+Z to save work to cstore folder (in AppData>Roaming>pico8>cstore>"your projects here")
